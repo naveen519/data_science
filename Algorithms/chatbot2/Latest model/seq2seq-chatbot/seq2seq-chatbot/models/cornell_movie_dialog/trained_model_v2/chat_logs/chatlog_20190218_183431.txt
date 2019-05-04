@@ -1,0 +1,21 @@
+You: Hi
+ChatBot: hi.
+
+You: How are you doing?
+ChatBot: I mean i'm at work.
+
+You: Ohh...ok...so shall we talk later?
+ChatBot: i'm sure.
+
+You: ok then, see you later...bye
+ChatBot: i'll call you back.
+
+You: thanks
+ChatBot: i'll wait out.
+
+You: bye
+ChatBot: i'll sit down. bye.
+
+You: hi happy bday to you!
+ChatBot: oh. bye bye
+

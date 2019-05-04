@@ -1,0 +1,27 @@
+You: 
+ChatBot: .
+
+You: Hi
+ChatBot: ['. I know what it is.', '. what?', '. sorry.', ". what's that mean?", ". what a gun. I have to go to fiji. i'm sorry. i'm right here.", ". I know what it is. it's not enough to do. it's not. it's something.", ". what a gun. I have to go to europe. i'm sorry. i'm right here.", ". what a gun. I have to go to fiji. i'm right here.", ". what a gun. I have to go to fiji. i'm in a hurry.", '. what.?', ". what a gun. I have to go to fiji. i'm sorry. i'm here.", '. what a gun.', '. what a gun. I have to go.', ". I know what it is. it's not enough to do. it's not. it's not.", '. what a gun. I have to go to get to get away.', ". I know what it is. it's not enough to make you here. we can fix it.", ". I know what it is. it's not enough to make you here. we can fix it. besides.", ". what's she doing?", '. sorry. what are you doing?', ". I know what it is. it's not enough to make you here. we can fix it. besides i'm sorry."]
+
+You: Hi
+ChatBot: ['get out!', 'say whatever say.', 'get out.', 'say say.', 'oh say.', 'oh get out!', 'get out!.', 'say say say.', 'get out! out!', 'get out!..', 'get married.', "say say isn't there doing something I don't eat in my book?", "say say isn't.", 'oh say?', 'get out! the. er.', 'get out! the. er!', 'say whatever say who is this anna?', 'get out!!', "say say isn't there doing something I don't know about this is all.", "say say isn't there then what?"]
+
+You: Hi
+ChatBot: ['hi.', 'hi. how are you doing?', 'how are you?', 'oh hi.', "hi. I got a new friend tonight. how's your favorite?"]
+
+You: Hi
+ChatBot: ['hi.']
+
+You: How are you?
+ChatBot: ['I want you to come back tomorrow.']
+
+You: but why?
+ChatBot: ["i'm going to need to find a friend. i'm sorry."]
+
+You: ohh....which friend?
+ChatBot: ['who!?']
+
+You: your friend
+ChatBot: ['what?']
+

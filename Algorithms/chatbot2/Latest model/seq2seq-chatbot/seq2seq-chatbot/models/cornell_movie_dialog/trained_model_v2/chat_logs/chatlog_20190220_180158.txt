@@ -1,0 +1,18 @@
+You: Hi
+ChatBot: hi.
+
+You: how are you?
+ChatBot: I want you to come back tomorrow.
+
+You: why?
+ChatBot: could I talk to her?
+
+You: to whom?
+ChatBot: elaine she's going to kill you. you can tell me that you wanted to know why. why don't you go home so soon?
+
+You: ok, I will go
+ChatBot: come on a second.
+
+You: --exit()
+ChatBot: may I talk to you for a second?
+
